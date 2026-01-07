@@ -1,8 +1,6 @@
 🩺 Disease Predictor with Symptom Autocomplete
 A simple AI-powered desktop application built using Python and Tkinter that predicts possible diseases based on selected symptoms, with intelligent suggestions and user-friendly autocomplete inputs.
 
-📸 Preview
-(Add your screenshot here)
 
 🧠 Features
 ✅ Autocomplete symptom search with dropdown menus
